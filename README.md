@@ -10,16 +10,15 @@
 前级：StormAudio ISP MK1
 
 后级：Starke Sound A7
-L+C+R：Starke Sound H5
-LW+RW: Starke Sound H1 Be
+* L+C+R：Starke Sound H5
+* LW+RW: Starke Sound H1 Be
 
 后级：Starke Sound A8
-LS+RS+LB+RB+LFT+RFT+LBT+RBT: Starke Sound H1 Be
+* LS+RS+LB+RB+LFT+RFT+LBT+RBT: Starke Sound H1 Be
 
+SUB: Starke Sound SUB45
 
 ## 目录说明
-. /Specification/  设备说明书
-
-. /Protocol/       设备控制协议
-
-. /Application/    一些应用
+* `/Specification/`  设备说明书
+* `/Protocol/`       设备控制协议
+* `/Application/`    一些应用
